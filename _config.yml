@@ -1,0 +1,28 @@
+name: Productworld
+favicon: null
+layout_spectrum: 0.6086134645156562
+typography_spectrum: 0.18719077995046973
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.5019012016709894
+  lightness: 0.1263512133155018
+  saturation: 0.8014446489978582
+  rhythmicContrast: 0.700434246333316
+purpose: []
